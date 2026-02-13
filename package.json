@@ -10,7 +10,7 @@
     "python-shell": "^2.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.5.1",
     "web3": "^1.2.9"
   },
